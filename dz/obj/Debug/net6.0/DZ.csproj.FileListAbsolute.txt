@@ -1,0 +1,15 @@
+C:\Program Files\Verstka\Home word\DZ\bin\Debug\net6.0\DZ.exe
+C:\Program Files\Verstka\Home word\DZ\bin\Debug\net6.0\DZ.deps.json
+C:\Program Files\Verstka\Home word\DZ\bin\Debug\net6.0\DZ.runtimeconfig.json
+C:\Program Files\Verstka\Home word\DZ\bin\Debug\net6.0\DZ.dll
+C:\Program Files\Verstka\Home word\DZ\bin\Debug\net6.0\DZ.pdb
+C:\Program Files\Verstka\Home word\DZ\obj\Debug\net6.0\DZ.csproj.AssemblyReference.cache
+C:\Program Files\Verstka\Home word\DZ\obj\Debug\net6.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Verstka\Home word\DZ\obj\Debug\net6.0\DZ.AssemblyInfoInputs.cache
+C:\Program Files\Verstka\Home word\DZ\obj\Debug\net6.0\DZ.AssemblyInfo.cs
+C:\Program Files\Verstka\Home word\DZ\obj\Debug\net6.0\DZ.csproj.CoreCompileInputs.cache
+C:\Program Files\Verstka\Home word\DZ\obj\Debug\net6.0\DZ.dll
+C:\Program Files\Verstka\Home word\DZ\obj\Debug\net6.0\refint\DZ.dll
+C:\Program Files\Verstka\Home word\DZ\obj\Debug\net6.0\DZ.pdb
+C:\Program Files\Verstka\Home word\DZ\obj\Debug\net6.0\DZ.genruntimeconfig.cache
+C:\Program Files\Verstka\Home word\DZ\obj\Debug\net6.0\ref\DZ.dll
